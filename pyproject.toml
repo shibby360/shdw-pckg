@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shdw-pckg"
+version = "0.0.15"
+description = "a package for random functions"
+readme = "README.md"
+requires-python = ">=3.8.18"
+license = {text = "MIT"}
+authors = [
+    { name = "shibby360", email = "shivank.chhaya@gmail.com" }
+]
+
+[project.urls]
+"Homepage" = "https://github.com/shibby360/shdw-pckg"
