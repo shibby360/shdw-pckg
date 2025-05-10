@@ -1,6 +1,3 @@
-"""
-https://shdw-pckg.readthedocs.io/en/latest/
-"""
 import random as r
 import os
 import io
